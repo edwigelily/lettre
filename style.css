@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+main{
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    box-shadow: 1px 0px 15px 1px gray;
+    color: black;
+    padding: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+}
+.gauche{
+    text-align: right;
+}
+.centre{
+    text-align: center;
+}
+strong{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+address{
+    font-style: normal;
+    font-weight: bold;
+}
+#objet{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.tab{
+    tab-size: 4;
+}
+p{
+    text-align: justify;
+}
